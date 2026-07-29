@@ -6,7 +6,7 @@ This project presents an end-to-end retail customer behavior analysis aimed at u
 
 The objective was to transform raw retail transaction data into meaningful business insights that can help improve customer engagement, optimize marketing strategies, and increase revenue.
 
----
+
 
 # 🎯 Business Problem
 
